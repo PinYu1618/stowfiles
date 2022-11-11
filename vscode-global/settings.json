@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'Fira Code', Consolas, monospace",
+    "editor.fontLigatures": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "rust-analyzer.inlayHints.chainingHints.enable": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.inlayHints.closingBraceHints.enable": false,
+    "terminal.integrated.fontFamily": "'Fira Code', Consolas, monospace",
+    "workbench.colorTheme": "Atom One Dark"
+}
